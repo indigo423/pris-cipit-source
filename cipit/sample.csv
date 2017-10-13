@@ -1,0 +1,8 @@
+Phone Record Number,IP Address,Model Number,MAC Address,Host Name,Phone DN,Phone Load Version,Phone Serial Number,XML Capable,CDP Switch Host Name,CDP Switch IPv4 Address,CDP Switch IPv6 Address,CDP Switch Port,LLDP Switch Hostname,LLDP Switch IPv4 Address,LLDP Switch IPv6 Address,LLDP Switch Port,Port Speed,Port Duplex,Port Information
+1,172.16.7.104,CP-7911G,001BD47D798D,SEP001BD47D798D,6005,jar11sccp.8-5-3TH1-6.sbn,FCH1116AKCB,true,Doral-office-3560,172.16.7.1,,FastEthernet0/17,,,,,Full,100,,
+2,172.16.7.105,CP-7945G,002290039DDB,SEP002290039DDB,6906,jar45sccp.9-0-2ES3.sbn,FCH1228B5RD,true,Doral-office-3560,172.16.7.1,,FastEthernet0/14,,,,,Full,100,,
+3,172.16.7.106,CP-7945G,002290039D1E,SEP002290039D1E,6907,jar45sccp.9-0-2ES3.sbn,FCH1228B5KU,true,Doral-office-3560,172.16.7.1,,FastEthernet0/47,,,,,Full,100,,
+4,172.16.7.107,CP-7965G,001F9E24E2AC,SEP001F9E24E2AC,6909,jar45sccp.9-0-2ES3.sbn,FCH120980K6,true,Doral-office-3560,172.16.7.1,,FastEthernet0/5,,,,,Full,100,,
+5,172.16.7.108,CP-7965G,001F9E24E36D,SEP001F9E24E36D,6001,jar45sccp.9-0-2ES3.sbn,FCH120980QV,true,Doral-office-3560,172.16.7.1,,FastEthernet0/10,,,,,Full,100,,
+6,172.16.7.110,CP-7965G,001F9E24E612,SEP001F9E24E612,6916,jar45sccp.9-0-2ES3.sbn,FCH120981AS,true,Doral-office-3560,172.16.7.1,,FastEthernet0/6,,,,,Full,100,,
+7,172.16.7.254,CP-7960G,001FCAE8EA97,SEP001FCAE8EA97,6919,P00308000500,FCH1223A9VP,true,Doral-office-3560,172.16.7.1,,FastEthernet0/2,LLDP Not Supported,LLDP Not Supported,LLDP Not Supported,LLDP Not Supported,Full,100,,
