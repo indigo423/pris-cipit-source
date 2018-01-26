@@ -48,6 +48,7 @@ file.splitEachLine(separator) {fields ->
     def serialNumber = new RequisitionAsset()
 
     requisitionNode.setNodeLabel(fields[4]) // Host Name
+    requisitionNode.setForeignId(fields[4]) // Set Host Name also as foreign-ID
 
     requisitionInterface.setIpAddr(fields[1]) // Phone IP Address
     requisitionInterface.setSnmpPrimary(PrimaryType.PRIMARY)
